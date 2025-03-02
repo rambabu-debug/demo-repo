@@ -1,3 +1,4 @@
 # A ToDo project
-This is project is about a todo app in javafx
+This is project is about a todo app in javafx using MaterialFX
+.
 ## 
